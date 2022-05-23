@@ -1,0 +1,13 @@
+.click,
+.click-alt {
+    font: 28px Helvetica, "Times New Roman", sans-serif;
+}
+
+.click {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+}
+
+.click-alt {
+    background-color: rgb(255,255,0);
+}
